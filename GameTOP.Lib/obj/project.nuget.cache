@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "k3tG+2g+UrqTML4l5TjruuWPEoGA2t6I4GQgNp4vecrb+XcJRPorwOQ1EczemeSamMYzLNn/Tsye9Ma27jzLGw==",
+  "success": true,
+  "projectFilePath": "/Users/ildemarferreira/Desktop/CONSOLECORE/GameTOP.Lib/GameTOP.Lib.csproj",
+  "expectedPackageFiles": [
+    "/Users/ildemarferreira/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/ildemarferreira/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
