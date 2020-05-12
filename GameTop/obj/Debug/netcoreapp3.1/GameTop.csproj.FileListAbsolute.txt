@@ -10,3 +10,8 @@
 /Users/ildemarferreira/Desktop/CONSOLECORE/ConsoleCore/GameTop/obj/Debug/netcoreapp3.1/GameTop.dll
 /Users/ildemarferreira/Desktop/CONSOLECORE/ConsoleCore/GameTop/obj/Debug/netcoreapp3.1/GameTop.pdb
 /Users/ildemarferreira/Desktop/CONSOLECORE/ConsoleCore/GameTop/obj/Debug/netcoreapp3.1/GameTop.genruntimeconfig.cache
+/Users/ildemarferreira/Desktop/CONSOLECORE/ConsoleCore/GameTop/bin/Debug/netcoreapp3.1/GameTop.Interface.dll
+/Users/ildemarferreira/Desktop/CONSOLECORE/ConsoleCore/GameTop/bin/Debug/netcoreapp3.1/GameTop.Lib.dll
+/Users/ildemarferreira/Desktop/CONSOLECORE/ConsoleCore/GameTop/bin/Debug/netcoreapp3.1/GameTop.Lib.pdb
+/Users/ildemarferreira/Desktop/CONSOLECORE/ConsoleCore/GameTop/bin/Debug/netcoreapp3.1/GameTop.Interface.pdb
+/Users/ildemarferreira/Desktop/CONSOLECORE/ConsoleCore/GameTop/obj/Debug/netcoreapp3.1/GameTop.csproj.CopyComplete

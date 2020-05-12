@@ -1,0 +1,9 @@
+/Users/ildemarferreira/Desktop/CONSOLECORE/ConsoleCore/GameTop.Interface/bin/Debug/netstandard2.0/GameTop.Interface.deps.json
+/Users/ildemarferreira/Desktop/CONSOLECORE/ConsoleCore/GameTop.Interface/bin/Debug/netstandard2.0/GameTop.Interface.dll
+/Users/ildemarferreira/Desktop/CONSOLECORE/ConsoleCore/GameTop.Interface/bin/Debug/netstandard2.0/GameTop.Interface.pdb
+/Users/ildemarferreira/Desktop/CONSOLECORE/ConsoleCore/GameTop.Interface/obj/Debug/netstandard2.0/GameTop.Interface.csprojAssemblyReference.cache
+/Users/ildemarferreira/Desktop/CONSOLECORE/ConsoleCore/GameTop.Interface/obj/Debug/netstandard2.0/GameTop.Interface.csproj.CoreCompileInputs.cache
+/Users/ildemarferreira/Desktop/CONSOLECORE/ConsoleCore/GameTop.Interface/obj/Debug/netstandard2.0/GameTop.Interface.AssemblyInfoInputs.cache
+/Users/ildemarferreira/Desktop/CONSOLECORE/ConsoleCore/GameTop.Interface/obj/Debug/netstandard2.0/GameTop.Interface.AssemblyInfo.cs
+/Users/ildemarferreira/Desktop/CONSOLECORE/ConsoleCore/GameTop.Interface/obj/Debug/netstandard2.0/GameTop.Interface.dll
+/Users/ildemarferreira/Desktop/CONSOLECORE/ConsoleCore/GameTop.Interface/obj/Debug/netstandard2.0/GameTop.Interface.pdb

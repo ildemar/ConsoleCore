@@ -1,11 +1,49 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {}
+    ".NETCoreApp,Version=v3.1": {
+      "GameTop.Interface/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/GameTop.Interface.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/GameTop.Interface.dll": {}
+        }
+      },
+      "GameTop.Lib/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "GameTop.Interface": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/GameTop.Lib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/GameTop.Lib.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "GameTop.Interface/1.0.0": {
+      "type": "project",
+      "path": "../GameTop.Interface/GameTop.Interface.csproj",
+      "msbuildProject": "../GameTop.Interface/GameTop.Interface.csproj"
+    },
+    "GameTop.Lib/1.0.0": {
+      "type": "project",
+      "path": "../GameTop.Lib/GameTop.Lib.csproj",
+      "msbuildProject": "../GameTop.Lib/GameTop.Lib.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": []
+    ".NETCoreApp,Version=v3.1": [
+      "GameTop.Interface >= 1.0.0",
+      "GameTop.Lib >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "/Users/ildemarferreira/.nuget/packages/": {}
@@ -30,7 +68,14 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "/Users/ildemarferreira/Desktop/CONSOLECORE/ConsoleCore/GameTop.Interface/GameTop.Interface.csproj": {
+              "projectPath": "/Users/ildemarferreira/Desktop/CONSOLECORE/ConsoleCore/GameTop.Interface/GameTop.Interface.csproj"
+            },
+            "/Users/ildemarferreira/Desktop/CONSOLECORE/ConsoleCore/GameTop.Lib/GameTop.Lib.csproj": {
+              "projectPath": "/Users/ildemarferreira/Desktop/CONSOLECORE/ConsoleCore/GameTop.Lib/GameTop.Lib.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
